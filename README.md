@@ -40,7 +40,7 @@ Abrir o arquivo index.html
 
  <img src="./assets/.github/layout1.png">
     <br>
- <img src="./assets/.github/layout2.png">
+ <img src="./assets/.github/layout2.gif">
     <br>
 
 
