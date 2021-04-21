@@ -36,10 +36,8 @@ Abrir o arquivo index.html
 
 ## <h3> 🖼️ Layout</h3>
 
-<br>
 
- <img src="./assets/.github/layout1.png">
-    <br>
+    
  <img src="./assets/.github/layout2.gif">
     <br>
 
