@@ -87,3 +87,8 @@ body {
   color: #121212;
   background-color: #2bb9d8;
 }
+.principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
